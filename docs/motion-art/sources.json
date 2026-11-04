@@ -1,0 +1,47 @@
+[
+  {
+    "id": "partner",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-df51be69-30bc-4c35-9fb8-6383e04602bc.png",
+    "output": "frontend/public/pets/motion/partner.webp"
+  },
+  {
+    "id": "fire",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-a7e2ec79-51f7-49ac-a296-d7cfc9e76141.png",
+    "output": "frontend/public/pets/motion/fire.webp"
+  },
+  {
+    "id": "water",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-1bdc68b1-1f8d-4774-8539-8a730631e58d.png",
+    "output": "frontend/public/pets/motion/water.webp"
+  },
+  {
+    "id": "leaf-rabbit",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-1f516865-84f9-4168-910a-a4bb818860ed.png",
+    "output": "frontend/public/pets/motion/leaf-rabbit.webp"
+  },
+  {
+    "id": "moon-fox",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-5202edc5-f3ea-4e86-99da-bab492a385ad.png",
+    "output": "frontend/public/pets/motion/moon-fox.webp"
+  },
+  {
+    "id": "ice-penguin",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-b7af0f50-fc10-49e0-9900-659993e495cb.png",
+    "output": "frontend/public/pets/motion/ice-penguin.webp"
+  },
+  {
+    "id": "star-owl",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-79f13ea0-6025-4f2c-ad56-2bc98e6f9252.png",
+    "output": "frontend/public/pets/motion/star-owl.webp"
+  },
+  {
+    "id": "mushroom-bear",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-5fb93c80-7643-4243-a97e-16022e2835ac.png",
+    "output": "frontend/public/pets/motion/mushroom-bear.webp"
+  },
+  {
+    "id": "cloud-cat",
+    "source": "C:\\Users\\10788\\.codex\\generated_images\\01a167df-4586-76b0-bb0c-a8cf30eaa298\\exec-ce2d4526-bbc0-45ab-83a4-b69001548ef9.png",
+    "output": "frontend/public/pets/motion/cloud-cat.webp"
+  }
+]

@@ -1,0 +1,6 @@
+# Optional: expose only MySQL for native backend development.
+# docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d mysql
+services:
+  mysql:
+    ports:
+      - "127.0.0.1:${MYSQL_DEV_PORT:-3306}:3306"

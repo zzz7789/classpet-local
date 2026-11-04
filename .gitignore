@@ -1,0 +1,14 @@
+.env
+*.zip
+frontend/node_modules/
+frontend/dist/
+backend/bin/
+backend/obj/
+backend/.data/
+backups/
+.build/
+.env.server
+release/
+
+.omx/
+*.log

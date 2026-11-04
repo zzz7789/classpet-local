@@ -1,0 +1,5 @@
+services:
+  backend:
+    image: classpet-local-backend:latest
+  frontend:
+    image: classpet-local-frontend:latest
