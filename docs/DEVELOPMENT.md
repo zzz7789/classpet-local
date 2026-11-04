@@ -58,7 +58,7 @@ npm run dev
 账号请求示例：
 
 ```json
-{"action":"register","username":"王老师","password":"your-password-123"}
+{"action":"register","username":"zhanglinlin","password":"your-password-123"}
 ```
 
 业务请求需要浏览器Cookie、同源`Origin`和`Idempotency-Key`请求头；用curl等工具测试时也要提供Origin，例如`http://localhost:8080`。
